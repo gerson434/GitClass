@@ -1,3 +1,22 @@
 Nombre: Gerson Davian largo Ortiz 
 Edad: 22 Años
 Descripcion: Soy una persona amable, competitiva llena de retos y metas por cumplir.
+
+
+Ensambalr un aplicativo web para la API chatbot 
+
+ Modelo Cascada 
+Mario: Analista de procesos: OK
+Primer tarera Crear o redactar el MD, MER Diagrama de Grant 
+Marcos: Desing of software:
+Tarea es montar el Mokup Del proyecto y hacer todos los archivos css 
+Mercedes: Developer front: 
+Crear todas las visualizaciones (html) archivos js 
+Camilo: Developer Back:
+Establecer el entornode React, Crear la DB y levantamiento del software 
+
+Master 
+MarioAP
+MerceDFRT
+CamiloDBCK
+MarcosDSGN
