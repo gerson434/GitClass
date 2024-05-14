@@ -1,6 +1,7 @@
 Nombre: Gerson Davian largo Ortiz 
 Edad: 22 Años
 Descripcion: Soy una persona amable, competitiva llena de retos y metas por cumplir.
+Pasatiempos: Jugar Fubol, Desarrollar aplicaciones con python 
 
 
 Ensambalr un aplicativo web para la API chatbot 
