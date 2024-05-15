@@ -1,0 +1,12 @@
+body {
+    margin: 2rem;
+    background-color: black;
+}
+
+.container {
+    text-align: center;
+}
+
+.Text-Green {
+    color: green;
+}
