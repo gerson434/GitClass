@@ -21,3 +21,9 @@ MarioAP
 MerceDFRT
 CamiloDBCK
 MarcosDSGN
+
+MIndex Terminado Hacer un Sitio en Boostrap donde a Mercerder se va a encargar de 
+todos los stilos y Camilo va a agregar toda la informacion
+
+MIndex Terminado Hacer un Sitio en Boostrap donde a Mercerder se va a encargar de 
+toda la maquetacion y Camilo va a agregar todas las Librerias
