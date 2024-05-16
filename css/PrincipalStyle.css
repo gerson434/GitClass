@@ -6,9 +6,9 @@ body {
 .container {
     text-align: center;
     color:white;
-    background-color: #0555aa;
+    background-color: #0e1115;
+    width: auto;
+    height: 400px;
+    padding: 2rem;
 }
 
-.Text-Green {
-    color: green;
-}
